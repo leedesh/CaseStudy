@@ -1,4 +1,4 @@
-###### CaseStudy
+# CaseStudy
 
 My recipe project, titled "Dollar Store Spoon University", is a website where users can find quick, easy, and economical meals. As users progress in their cooking journey, they can upload their own recipes and share their cooking expertise with other users. 
 
